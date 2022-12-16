@@ -12,6 +12,9 @@ AI2: стреляет по раскручивающейся спирали из 
 <image src="photo_2022-12-15_16-57-06.jpg">
 
 ## Запуск проекта:
+``
+## Версия ноды node v18.12.1
+``
 ## Склонить проект
 ```
 git clone https://github.com/MilkaChokolate/seabattle.git
